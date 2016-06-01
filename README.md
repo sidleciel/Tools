@@ -1,1 +1,1 @@
-apktool、fastboot、navicat、addr2line、apksigner、draw9patch、jd-gui1.4、shadowsocks-3.0、dex-method-counts、C-BusToolkit_1_14_5、jobb、gitbashportable、debugview
+apktool、fastboot、navicat、addr2line、apksigner、draw9patch、jd-gui1.4、shadowsocks-3.0、dex-method-counts、C-BusToolkit_1_14_5、jobb、gitbashportable、debugview、dex2jar
